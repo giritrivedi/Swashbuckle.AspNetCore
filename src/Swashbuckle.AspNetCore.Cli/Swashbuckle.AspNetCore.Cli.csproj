@@ -9,7 +9,6 @@
     <PackageId>Swashbuckle.AspNetCore.Cli</PackageId>
     <TargetFrameworks>netcoreapp2.1;netcoreapp3.0;net5.0;net6.0;net7.0;net8.0</TargetFrameworks>
     <ToolCommandName>swagger</ToolCommandName>
-    <WarningsNotAsErrors>NU1901;NU1902;NU1903;NU1904</WarningsNotAsErrors>
   </PropertyGroup>
 
   <ItemGroup>
